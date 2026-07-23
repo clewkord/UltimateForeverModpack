@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "verticalScale": 0.8,
+  "verticalScaleManual": 0.8,
+  "verticalScaleAuto": true,
+  "verticalScalePreset": "BALANCED"
+}
