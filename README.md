@@ -12,8 +12,8 @@ https://github.com/clewkord/UltimateForeverModpack
 
 ## Zawartosc
 
-- `mods/` - 174 plikow (535M)
-- `shaderpacks/` - 5 plikow (8.2M)
+- `mods/` - 174 plikow (543M)
+- `shaderpacks/` - 5 plikow (8.1M)
 - `config/` - 389 plikow (1.9M)
 
 Generowane automatycznie ze zrodlowej paczki. Repo jest lustrem paczki lokalnej.
